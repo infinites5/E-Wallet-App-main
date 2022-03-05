@@ -1,0 +1,35 @@
+
+
+.back{
+    position: fixed;
+    width:100%;
+    height: 100vh;
+    background-color:#4e73df;
+    top: 0;
+    left: 0;
+}
+
+.mid{
+    width: 500px;
+    height: auto;
+    margin: 170px auto 0 auto;
+    background-color: white;
+    padding: 20px 20px 25px 20px;
+    text-align: center;
+    border-radius: 1rem;
+}
+
+.lock{
+    color: red;
+}
+
+.text{
+    /* margin-top: 10px;
+    margin-bottom: 10px; */
+    width: 100%;
+    height: 43px;
+    border-radius: 2rem;
+    border: 0.5px solid rgb(175, 172, 172);
+    font-size: 1rem;
+    padding-left: 20px;
+}
